@@ -2,19 +2,19 @@
   "schema_version": 1,
   "project": "mylib-esp-chip-download-tool",
   "source": "github",
-  "version": "1.0.0",
-  "package_name": "mylib-esp-chip-download-tool-v1.0.0.exe",
+  "version": "1.0.1",
+  "package_name": "mylib-esp-chip-download-tool-v1.0.1.exe",
   "package_parts": [
     {
-      "name": "mylib-esp-chip-download-tool-v1.0.0.exe.part001",
-      "url": "https://github.com/zsh-0/mylib-esp_chip_download_tool/releases/download/mylib-esp-chip-download-tool-v1.0.0/mylib-esp-chip-download-tool-v1.0.0.exe.part001",
-      "sha256": "f4d611efd05905b7be8340bb22480e689d6fc04359f64b85193de4e8567c8c7c",
-      "size": 50724698
+      "name": "mylib-esp-chip-download-tool-v1.0.1.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-esp_chip_download_tool/releases/download/mylib-esp-chip-download-tool-v1.0.1/mylib-esp-chip-download-tool-v1.0.1.exe.part001",
+      "sha256": "1a38a3b4c858e1f2cbde1bcc56624630fb76770059f3a9914458a41b35efaeb8",
+      "size": 50724950
     }
   ],
-  "sha256": "f4d611efd05905b7be8340bb22480e689d6fc04359f64b85193de4e8567c8c7c",
-  "size": 50724698,
-  "notes": "V1.0.0\n1、初版发布",
+  "sha256": "1a38a3b4c858e1f2cbde1bcc56624630fb76770059f3a9914458a41b35efaeb8",
+  "size": 50724950,
+  "notes": "V1.0.1\n1、修复更新提示弹窗异常",
   "mandatory": false,
-  "published_at": "2026-09-27T03:55:11+00:00"
+  "published_at": "2026-09-27T09:53:19+00:00"
 }
